@@ -10,6 +10,7 @@
 #### 🛠 Currently building
 
 - **[jarvis-vocal](https://github.com/May-1600/jarvis-vocal)** — local-first voice agent for macOS · Whisper.cpp + ElevenLabs Flash v2.5 + intent-based LLM routing across Sonnet 4.6 / Haiku 4.5 / Mistral-Nemo · sub-second TTFA, 303 tests, 22 modules · `Python`
+- **[novo-box-stack](https://github.com/May-1600/novo-box-stack)** — self-hosted AI stack for SMBs · Docker + n8n + Ollama + Qdrant + Postgres + Next.js · drops on a Mac Mini, runs RAG / OCR / chatbot workflows entirely on-prem · `TypeScript` `Docker`
 - **[cv-mayeul](https://github.com/May-1600/cv-mayeul)** — interactive CV · Next.js 16 + React 19 + Tailwind 4 + Framer Motion · WCAG AA, single-page, static export · `TypeScript`
 
 #### 🧰 Stack I reach for
